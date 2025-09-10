@@ -42,13 +42,13 @@
 | **📬 Contatos** |
 |:---------------:|
 | 
-<a href="mailto:seuemail@exemplo.com">
+<a href="https://www.instagram.com/nicky_edo7/">
   <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Email" height="40" style="margin:0 10px;" />
 </a>
-<a href="https://discord.com/users/SeuDiscordID">
+<a href="https://discord.com/users/1309273749845184564">
   <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord" height="40" style="margin:0 10px;" />
 </a>
-<a href="https://www.linkedin.com/in/seulinkedin/">
+<a href="https://www.linkedin.com/in/nicholas-edo-0a992a2bb/">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="40" style="margin:0 10px;" />
 </a>
 |
