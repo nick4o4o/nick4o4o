@@ -33,7 +33,7 @@
 
 <!-- GitHub Streak -->
 <a href="https://github.com/nick4o4o">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nick4o4o&theme=radical&hide_border=false" height="100"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nick4o4o&theme=radical&hide_border=false" height="180"/>
 </a>
 
 </p>
