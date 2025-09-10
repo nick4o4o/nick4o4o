@@ -28,7 +28,7 @@
 
 <!-- Top Languages -->
 <a href="https://github.com/nick4o4o">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick4o4o&layout=compact&theme=radical&langs_count=3" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick4o4o&layout=compact&theme=radical&langs_count=5" />
 </a>
 
 <!-- GitHub Streak -->
